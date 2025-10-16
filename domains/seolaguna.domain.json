@@ -1,0 +1,13 @@
+{
+  "description": "seolaguna landing ",
+  "domain": "is-cool.dev",
+  "subdomain": "seolaguna",
+  "owner": {
+    "repo": "https://github.com/ydaprn62/tes",
+    "email": "ydaprn62@gmail.com"
+  },
+  "record": {
+    "CNAME": "ydaprn62.github.io"
+  },
+  "proxied": false
+}
